@@ -59,7 +59,7 @@
 
 [![Project][project-screenshot]](https://example.com)
 
-This project is about...
+This project is about Linear Regression...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
