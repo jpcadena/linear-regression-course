@@ -57,11 +57,15 @@
 
 <!-- ABOUT THE PROJECT -->
 
+## About the project
+
 [![Project][project-screenshot]](https://example.com)
 
 This project is about Linear Regression...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built with
 
 * [![Python][Python.org]][Python-url]
 
@@ -71,8 +75,11 @@ This project is about Linear Regression...
 
 <!-- GETTING STARTED -->
 
+## Getting started
+
 * [Python 3.10+][Python-url]
 
+### Installation
 
 1. Clone the **repository**
     ```
@@ -105,6 +112,8 @@ This project is about Linear Regression...
 
 <!-- USAGE EXAMPLES -->
 
+### Usage
+
 1. If found **sample.env**, rename it with to **.env**.
 2. Replace your **credentials** into the *.env* file.
 3. Execute with console
@@ -117,6 +126,8 @@ This project is about Linear Regression...
 
 
 <!-- CONTRIBUTING -->
+
+## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and
 create a pull request.
@@ -145,6 +156,8 @@ autocompletion: [Tabnine](https://www.tabnine.com/install)
 
 <!-- LICENSE -->
 
+## License
+
 Distributed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -152,6 +165,8 @@ Distributed under the MIT License.
 
 
 <!-- CONTACT -->
+
+## Contact
 
 LinkedIn: [Juan Pablo Cadena Aguilar][linkedin-url]
 
